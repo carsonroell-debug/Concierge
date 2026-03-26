@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0d0c0a"/>
+  <g stroke="#c8a96e" stroke-width="14" fill="none" stroke-linecap="round">
+    <circle cx="256" cy="140" r="36"/>
+    <line x1="256" y1="176" x2="256" y2="310"/>
+    <line x1="256" y1="310" x2="210" y2="420"/>
+    <line x1="256" y1="310" x2="302" y2="420"/>
+    <line x1="256" y1="210" x2="200" y2="260"/>
+    <line x1="256" y1="210" x2="312" y2="260"/>
+    <line x1="200" y1="260" x2="195" y2="200"/>
+    <line x1="312" y1="260" x2="317" y2="200"/>
+    <circle cx="195" cy="190" r="14" fill="#c8a96e" opacity="0.4"/>
+    <circle cx="317" cy="190" r="14" fill="#c8a96e" opacity="0.4"/>
+  </g>
+  <text x="256" y="478" text-anchor="middle" fill="#c8a96e" font-family="system-ui,sans-serif" font-size="48" font-weight="700" letter-spacing="6">PULL</text>
+</svg>
